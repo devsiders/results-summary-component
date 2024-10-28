@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component
 
-![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
+![image](https://github.com/user-attachments/assets/19c43e52-1561-4e7a-b8e0-60f7fa67d1f0)
 
 ## Welcome! 👋
 
